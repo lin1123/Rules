@@ -506,6 +506,8 @@ payload:
   
   # 动漫花园
   - DOMAIN-SUFFIX,dmhy.org
+  # V2Fly
+  - DOMAIN-SUFFIX,v2fly.org
   
   # DisneyPlus
   - DOMAIN,cdn.registerdisney.go.com
